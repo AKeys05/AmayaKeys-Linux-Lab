@@ -1,4 +1,4 @@
-$ git remote add origin https://github.com/<USER>/<REPO>.git
-$ git push -u origin master
-$ git pull origin master
-$ git checkout -b develop_feature_A
+git remote add origin https://github.com/<USER>/<REPO>.git
+git push -u origin master
+git pull origin master
+git checkout -b develop_feature_A
